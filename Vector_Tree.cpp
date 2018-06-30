@@ -52,7 +52,7 @@ public:
 	{return pos(2*idx(p)+1);} //
 
 	Position parent(const Position& p) //get parent
-	{return pos(idx(p/2));}
+	{return pos(idx(p)/2);}
 
 
 	bool hasLeft(const Position& p) const{ //we determine that based on size
