@@ -1,7 +1,7 @@
 //The code is taken from 
 //Data Structures and Algorithms in C++, 2nd Edition
 //Michael T. Goodrich, Roberto Tamassia, David M. Mount
-//I implemented this code to lear data structures
+//I implemented this code to learn data structures
 //I added my own comments and main program
 
 
