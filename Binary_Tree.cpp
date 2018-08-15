@@ -1,3 +1,12 @@
+
+//Data Structures and Algorithms in C++, 2nd Edition
+
+//Michael T. Goodrich, Roberto Tamassia, David M. Mount
+
+
+
+
+
 #include <iostream>
 #include <vector>
 #include<list>
