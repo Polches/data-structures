@@ -1,3 +1,8 @@
+//This is assignemnt 3 for CMPT225
+//here I implemented trickleUp and trickleDown functions, also constructors
+//trickleUp and trickleDown are imlemented both recursively and non-recursively. Non-recursive version is commented
+
+
 /******************************************************
   Heap.h -- Declarations for Basic Heap-of-Pair-of-Ints Class
 
