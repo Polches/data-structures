@@ -1,3 +1,11 @@
+
+////This code ia taken from 
+//Data Structures and Algorithms in C++, 2nd Edition by
+//Michael T. Goodrich, Roberto Tamassia, David M. Mount
+//I impelemented this code to learn and understand Linked Binary Tree Structure
+//I added my own comments to help myself to understand the code
+
+
 #include <iostream>
 #include <vector>
 #include<list>
