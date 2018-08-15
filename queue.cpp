@@ -1,9 +1,16 @@
+//The code is taken from 
+//Data Structures and Algorithms in C++, 2nd Edition
+//Michael T. Goodrich, Roberto Tamassia, David M. Mount
+//I implemented this code to learn data structures
+//I added my own comments and main program
+
+
 #include <iostream>
 using namespace std;
 
 //Question 5.9
 //I need to write a queue
-// ques is based on a Circular linked list
+// queue is based on a Circular linked list
 typedef int Elem;
 class CNode{
 	Elem el;
@@ -102,6 +109,8 @@ const Elem& CircleList::front() const{
 const Elem& CircleList::back() const{
 	return cursor->el; 
 }
+
+
 
 /////NOW WE IMPLEMENT A QUEUE BASED ON A LIST
 typedef int Elem;
@@ -202,27 +211,6 @@ void LinkedQueue::dequeue(){
 //Application of ques
 
 //we use queue in a breadth first tree traversal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
